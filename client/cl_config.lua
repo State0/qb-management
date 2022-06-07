@@ -26,7 +26,7 @@ Config.BossMenus = {
         vector3(194.09, -1644.19, 29.8),
     },
     ['tbclubs'] = {
-        vector3(97.83, -1305.29, 29.29),
+        vector3(832.72, -829.03, 26.33),
     },
     ['salieri'] = {
         vector3(412.43, -1503.1, 30.16),
@@ -59,7 +59,7 @@ Config.BossMenuZones = {
         { coords = vector3(194.09, -1644.19, 29.8), length = 1.15, width = 2.6, heading = 353.0, minZ = 43.59, maxZ = 44.99 },
     },
     ['tbclubs'] = {
-        { coords = vector3(97.83, -1305.29, 29.29), length = 1.15, width = 2.6, heading = 353.0, minZ = 43.59, maxZ = 44.99 },
+        { coords = vector3(832.72, -829.03, 26.33), length = 1.15, width = 2.6, heading = 353.0, minZ = 20.59, maxZ = 44.99 },
     },
     ['salieri'] = {
         { coords = vector3(412.43, -1503.1, 30.16), length = 1.15, width = 2.6, heading = 353.0, minZ = 43.59, maxZ = 44.99 },
