@@ -34,6 +34,9 @@ Config.BossMenus = {
     ['goldbroiler'] = {
         vector3(1253.26, -348.78, 69.08),
     },
+    ['bikeshop'] = {
+        vector3(1186.94, 2637.19, 38.4),
+    },
 }
 
 Config.BossMenuZones = {
@@ -66,6 +69,9 @@ Config.BossMenuZones = {
     },
     ['goldbroiler'] = {
         { coords = vector3(1253.26, -348.78, 69.08), length = 1.15, width = 2.6, heading = 353.0, minZ = 43.59, maxZ = 44.99 },
+    },
+    ['bikeshop'] = {
+        { coords = vector3(1186.94, 2637.19, 38.4), length = 1.15, width = 2.6, heading = 352.37, minZ = 20.59, maxZ = 40.99 },
     },
 }
 
